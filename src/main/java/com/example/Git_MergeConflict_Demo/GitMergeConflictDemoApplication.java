@@ -14,6 +14,7 @@ public class GitMergeConflictDemoApplication {
 
 	      return String.format("Hello  this is DevOps");
 	 }
+
 	 public String welcome() { //done by developer1
 	      return String.format("Hello  welcome to the world of DevOps");
 	 }
